@@ -25,7 +25,7 @@ npm i --save-dev
 
 3.Development: 
 
-конфигурация в ```webpack.config.js``
+конфигурация в ```webpack.config.js```
 
 запуск 
 ````bash 
@@ -35,7 +35,7 @@ npm run start-dev
 
 4.Production: 
 
-конфигурация в ```webpack.config.prod.js``
+конфигурация в ```webpack.config.prod.js```
 
 запуск 
 ````bash 
